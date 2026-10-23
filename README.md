@@ -1,7 +1,7 @@
 # Laravel Social Caster
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/illuma-law/laravel-social-caster.svg?style=flat-square)](https://packagist.org/packages/illuma-law/laravel-social-caster)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/illuma-law/laravel-social-caster/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/illuma-law/laravel-social-caster/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/eloquage/laravel-social-caster/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/eloquage/laravel-social-caster/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/illuma-law/laravel-social-caster.svg?style=flat-square)](https://packagist.org/packages/illuma-law/laravel-social-caster)
 
 A standalone Laravel package providing an elegant, unified API for publishing content to multiple social media platforms.
