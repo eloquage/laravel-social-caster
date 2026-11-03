@@ -1,4 +1,4 @@
-# illuma-law/laravel-social-caster
+# eloquage/laravel-social-caster
 
 Social media publishing for Twitter, LinkedIn, Facebook, Instagram, Threads, and TikTok.
 

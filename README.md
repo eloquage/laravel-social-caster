@@ -7,7 +7,7 @@ package validates content and account compatibility before making platform
 requests.
 
 [![Tests](https://github.com/eloquage/laravel-social-caster/actions/workflows/run-tests.yml/badge.svg)](https://github.com/eloquage/laravel-social-caster/actions/workflows/run-tests.yml)
-[![Latest Version](https://img.shields.io/packagist/v/illuma-law/laravel-social-caster)](https://packagist.org/packages/illuma-law/laravel-social-caster)
+[![Latest Version](https://img.shields.io/packagist/v/eloquage/laravel-social-caster)](https://packagist.org/packages/eloquage/laravel-social-caster)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Requires PHP 8.3+ and Laravel 11, 12, or 13. Supported platforms are X,
@@ -17,7 +17,7 @@ own developer application, access scopes, and credentials.
 ## Install
 
 ```bash
-composer require illuma-law/laravel-social-caster
+composer require eloquage/laravel-social-caster
 php artisan vendor:publish --tag=social-caster-config
 ```
 
