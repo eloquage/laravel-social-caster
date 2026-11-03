@@ -7,7 +7,7 @@ metadata:
 
 # GitHub README
 
-For `illuma-law/laravel-social-caster` (A standalone Laravel package for social media publishing.), make the README useful to a developer deciding whether to install the package and then trying it in a real application.
+For `eloquage/laravel-social-caster` (A standalone Laravel package for social media publishing.), make the README useful to a developer deciding whether to install the package and then trying it in a real application.
 
 ## Ground every claim
 

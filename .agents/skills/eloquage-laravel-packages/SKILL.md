@@ -7,7 +7,7 @@ metadata:
 
 # Laravel package development
 
-Use this skill when changing this Composer package: `illuma-law/laravel-social-caster` — A standalone Laravel package for social media publishing.
+Use this skill when changing this Composer package: `eloquage/laravel-social-caster` — A standalone Laravel package for social media publishing.
 
 ## Package context
 

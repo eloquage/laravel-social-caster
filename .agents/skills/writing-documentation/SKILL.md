@@ -7,7 +7,7 @@ metadata:
 
 # Writing and documentation
 
-Write documentation for `illuma-law/laravel-social-caster` (A standalone Laravel package for social media publishing.) that lets the intended reader complete a concrete task.
+Write documentation for `eloquage/laravel-social-caster` (A standalone Laravel package for social media publishing.) that lets the intended reader complete a concrete task.
 
 ## Source and structure
 
